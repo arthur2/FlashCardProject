@@ -1,0 +1,20 @@
+write project instructions in raw .md markdown format for a .net and blazor full stack development project. We don't use javascript in this project. Include the following sections:
+
+- how to setup asp.net core and blazor webassembly.
+- how to download, install and use visual studio and visual studio code.
+
+include useful reading material and resources for each section.
+
+And then explain the project, which has the following parts:
+
+- a login/logout mechanism (requires password hashing and JWT authentication)
+- a membership management interface to add new users by e-mail and password
+- a homepage / catalog page that shows all the flashcard topics available
+- a repository of flashcards categorized by topics
+- a flashcard learning interface that helps users practice each topic
+- a flashcard testing interface that tests users on a specific topic
+- a skill system and interface that shows user's mastery of each topic
+
+for each section include an explanation of the functionality.
+
+at the end include a list of reading material on .net core, blazor webassembly and web development.
